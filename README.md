@@ -1,4 +1,4 @@
-### Instructions
+# Instructions
 - Open your developer console and paste this script:
 
 Paste it into ChatGPT or Gemini, ask it to tell you what it does if you are worried if it is a virus or smth
