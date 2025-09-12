@@ -1,16 +1,14 @@
 # Instructions
 1. Refresh the "websites" page of which the file you want to download is stored
-2. open up the pdf so it is visible
+2. open up the pdf so it is visible (not in new tab)
 3. load all the pages (by scrolling up or down it a couple of times)
-4. Open your developer console and paste the script below or in main.js
-5. wait till it finishes, takes longer for larger documents.
-6. it will save to downloads as "download.pdf"
+4. Open your developer console (fn+f12) and paste the script below
+5. wait till it finishes, takes longer for larger documents. could take couple of seconds
+6. it will save to your downloads folder as "download.pdf"
 
 
 Paste it into ChatGPT or Gemini, ask it to tell you what it does if you are worried if it is a virus or smth
 
-## How it works
-yo momma
 
 ### Script
 ```
