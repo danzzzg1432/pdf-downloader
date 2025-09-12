@@ -3,6 +3,8 @@
 2. open up the pdf so it is visible
 3. load all the pages (by scrolling up or down it a couple of times)
 4. Open your developer console and paste the script below or in main.js
+5. wait till it finishes, takes longer for larger documents.
+6. it will save to downloads as "download.pdf"
 
 
 Paste it into ChatGPT or Gemini, ask it to tell you what it does if you are worried if it is a virus or smth
